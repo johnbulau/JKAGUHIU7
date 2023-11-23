@@ -1,0 +1,8 @@
+{
+    "__comment": "Supported Backgrounds Audio. Can add/remove background audio here... replace the links and names or add new ones",
+    "lofi": [
+        "https://www.youtube.com/watch?v=LTphVIore3A",
+        "lofi.mp3",
+        "Super Lofi World"
+    ]
+}
